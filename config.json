@@ -18,7 +18,7 @@
             "url": "web-ko1.gonspool.com:3333", // URL of mining server
             "user": "0x4e1d1cba095e8f7489b9d1f17716afd69f026d77",               // username for mining server
             "pass": "x",                         // password for mining server
-            "worker-id": "0a",                    // worker ID for mining server
+            "worker-id": "0b",                    // worker ID for mining server
             "keepalive": false,                  // send keepalived for prevent timeout (need pool support)
             "nicehash": false
         }
