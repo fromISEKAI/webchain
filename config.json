@@ -1,4 +1,5 @@
 {                                                                                                             
+    "algo": "lyra2-webchain",
     "av": 0,                // algorithm variation, 0 auto select                                             
     "background": false,    // true to run the miner in the background                                        
     "colors": true,         // false to disable colored output                                                
@@ -20,6 +21,14 @@
             "pass": "x",                         // password for mining server
             "worker-id": "0",                    // worker ID for mining server
             "keepalive": false,                  // send keepalived for prevent timeout (need pool support)
+            "nicehash": false
+        },
+        {
+            "url": "webcn.loudmining.com:1001",
+            "user": "0x4e1d1cba095e8f7489b9d1f17716afd69f026d77",
+            "pass": "x",
+            "worker-id": "0",
+            "keepalive": false,
             "nicehash": false
         }
     ],
