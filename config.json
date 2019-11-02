@@ -22,14 +22,6 @@
                 "worker-id": "0",                                      // worker ID for mining server
                 "keepalive": false,
                 "nicehash": false
-        },
-        {
-                "url": "webcn.loudmining.com:1001",
-                "user": "0x4e1d1cba095e8f7489b9d1f17716afd69f026d77",
-                "pass": "x",
-                "worker-id": "y",
-                "keepalive": false,
-                "nicehash": false
         }
     ],
     "api": {
